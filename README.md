@@ -7,6 +7,8 @@
 - :house: &nbsp;&nbsp;&nbsp;Born and raised in Antwerp
 - :pig: &nbsp;&nbsp;&nbsp;Known to take care of a lot dogs
 
+<!-- used the nobackspace tag because octocats emoji isnt aligned as the rest-->
+
 
 ### Social Media:
 
