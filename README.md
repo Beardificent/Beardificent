@@ -1,14 +1,19 @@
 # ```CIS MAGITO```
 ###### also known as Beardificent
 
-## Some insight
+### Some insight
 - :hatched_chick: BeCode hatchling
-- 🥅 2021 Goal: Becoming a full-stack web developer
+- :octopus: Goal is to become an Octupus 
+- :house: Born and raised in Antwerp
+- :dog: Known to take care of a lot dogs
+
 
 ### Social Media:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Ventura]
 
 <br />
 
@@ -31,3 +36,4 @@
 
 [instagram]: https://www.instagram.com/beardificent/
 [linkedin]: https://www.linkedin.com/in/cis-magito-0a110286/
+[ventura]: https://www.instagram.com/venturawalks/
