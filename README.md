@@ -2,7 +2,7 @@
 ###### also known as Beardificent
 
 ## Some insight
-- 🌱 BeCode hatchling
+- :hatched_chick: BeCode hatchling
 - 🥅 2021 Goal: Becoming a full-stack web developer
 
 ### Social Media:
