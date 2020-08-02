@@ -2,10 +2,10 @@
 ###### also known as ```Beardificent```
 
 ### Some insight
-- :hatched_chick: &nbsp;&nbsp;BeCode hatchling
+- :hatched_chick: &nbsp;&nbsp;&nbsp;BeCode hatchling
 - :octocat: &nbsp;Goal is to become an Octupus 
-- :house: &nbsp;&nbsp;Born and raised in Antwerp
-- :pig: &nbsp;&nbsp;Known to take care of a lot dogs
+- :house: &nbsp;&nbsp;&nbsp;Born and raised in Antwerp
+- :pig: &nbsp;&nbsp;&nbsp;Known to take care of a lot dogs
 
 
 ### Social Media:
