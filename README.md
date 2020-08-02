@@ -32,7 +32,8 @@
 &nbsp;
 &nbsp;
 
-![Alt Text](https://raw.githubusercontent.com/Beardificent/Beardificent/master/spidercomputer.gif)
+
+<img align="center" alt="spiderman" src="https://raw.githubusercontent.com/Beardificent/Beardificent/master/spidercomputer.gif" />
 
 
 
