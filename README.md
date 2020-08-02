@@ -1,5 +1,5 @@
 # ```CIS MAGITO```
-###### also known as Beardificent
+###### also known as ```Beardificent```
 
 ### Some insight
 - :hatched_chick: BeCode hatchling
