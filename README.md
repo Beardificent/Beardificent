@@ -5,7 +5,7 @@
 - :hatched_chick: BeCode hatchling
 - :octocat: Goal is to become an Octupus 
 - :house: Born and raised in Antwerp
-- :dog: Known to take care of a lot dogs
+- :pig: Known to take care of a lot dogs
 
 
 ### Social Media:
