@@ -2,12 +2,12 @@
 ###### also known as ```Beardificent```
 
 ### Some insight
-- :hatched_chick: &nbsp;&nbsp;&nbsp;BeCode hatchling
-- :octocat: &nbsp;Goal is to become an Octupus 
-- :house: &nbsp;&nbsp;&nbsp;Born and raised in Antwerp
-- :pig: &nbsp;&nbsp;&nbsp;Known to take care of a lot dogs
+- :hatched_chick: BeCode hatchling
+- :octopus: Goal is to become an Octupus 
+- :house: Born and raised in Antwerp
+- :pig: Known to take care of a lot dogs
 
-<!-- used the nobackspace tag because octocats emoji isnt aligned as the rest-->
+
 
 
 ### Social Media:
@@ -37,12 +37,13 @@
 
 
 
+
 <br />
 <br />
 
 ---
 
-###### *Big thanks to [Jesse Hall](https://github.com/codeSTACKr) for the tutorial*
+###### <sup> SHOUTOUT TO  [Jesse Hall](https://github.com/codeSTACKr) FOR THE YOUTUBE HOW TO </sup>
 
 [instagram]: https://www.instagram.com/beardificent/
 [linkedin]: https://www.linkedin.com/in/cis-magito-0a110286/
