@@ -29,8 +29,9 @@
 
 
 <br />
+
 ### Other
-[<img align="left" alt="CodeCademy" width="26px" src="https://seeklogo.com/images/C/codecademy-logo-2A19B928CF-seeklogo.com.png"/>][codecademy]
+[<img align="left" alt="codecademy" width="26px" src="https://seeklogo.com/images/C/codecademy-logo-2A19B928CF-seeklogo.com.png"/>][codecademy]
 
 &nbsp;
 
@@ -41,8 +42,6 @@
 
 
 ---
-
-###### <sup> SHOUTOUT TO  [Jesse Hall](https://github.com/codeSTACKr) FOR THE YOUTUBE HOW TO </sup>
 
 [instagram]: https://www.instagram.com/beardificent/
 [linkedin]: https://www.linkedin.com/in/cis-magito-0a110286/
