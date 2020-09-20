@@ -27,6 +27,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+### Other
+[<img align="left" alt="CodeCademy" width="26px" src="https://seeklogo.com/images/C/codecademy-logo-2A19B928CF-seeklogo.com.png"/>][codecademy]
+
 &nbsp;
 
 <img align="center" alt="spiderman" src="https://raw.githubusercontent.com/Beardificent/Beardificent/master/spidercomputer.gif" />
@@ -42,3 +45,4 @@
 [instagram]: https://www.instagram.com/beardificent/
 [linkedin]: https://www.linkedin.com/in/cis-magito-0a110286/
 [ventura]: https://www.instagram.com/venturawalks/
+[codecademy]: https://www.codecademy.com/profiles/Beardificent/
