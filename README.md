@@ -2,7 +2,7 @@
 ###### also known as ```Beardificent```
 
 ### Some insight
-- :hatched_chick: BeCode hatchling
+- :hatched_chick: Learning Java/Spring Boot/React JS
 - :octopus: Goal is to become an Octupus 
 - :house: Born and raised in Antwerp
 - :pig: Known to take care of a lot dogs
