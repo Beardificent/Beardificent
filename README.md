@@ -26,8 +26,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left" alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="reactjs" width="26px" src="https://img.icons8.com/office/16/000000/react.png"/>
+<img align="left" alt="springboot" width="26px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"/>
 
 <br />
 
