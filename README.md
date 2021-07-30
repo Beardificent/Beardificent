@@ -49,4 +49,4 @@
 [linkedin]: https://www.linkedin.com/in/cis-magito-0a110286/
 [ventura]: https://www.instagram.com/venturawalks/
 [codecademy]: https://www.codecademy.com/profiles/Beardificent/
-[amigoscode]: https://www.https://amigoscode.com/
+[amigoscode]: https://www.amigoscode.com/
